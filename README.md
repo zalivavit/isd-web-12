@@ -1,4 +1,4 @@
-# Web development and web design ISD-11. 2023.
+# Web development and web design ISD-12. 2023.
 
 ## Course links
 ### Git
