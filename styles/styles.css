@@ -347,3 +347,9 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Main styles */
+
+body {
+  background-color: green;
+}
